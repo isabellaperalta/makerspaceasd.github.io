@@ -1,4 +1,4 @@
-# makerspaceasd.github.io
+# makerspaceasd.github.io (a work in progress!)
 
 This is where we upload all the code for the Makerspace's website! 
 
